@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+   <category>
+      <pattern>ACADEMICS</pattern>
+    <template> 
+    Academics consists of Programmes (UG,PG,PhD), Academic Calendar, Syllabus, Open Electives, Ordinances, Academic Council, Dean Academics, Board of Studies and Library.
+    Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+</template>
+    </category>      
+
+   <category>
+      <pattern>UNDERGRADUATE PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link
+     Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+ 
+</template>
+    </category>      
+
+   <category>
+      <pattern>UG PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link
+     Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+ 
+</template>
+    </category>
+
+   <category>
+      <pattern>POSTGRADUATE PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the link 
+
+    Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+</template>
+    </category>      
+
+
+   <category>
+      <pattern>PG PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the link 
+
+    Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+</template>
+    </category>      
+  
+
+   <category>
+      <pattern>PHD PROGRAMMES</pattern>
+    <template>To know Different PhD Programmes available follow the link 
+     Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+
+</template>
+    </category>     
+ <category>
+      <pattern>DOCTORAL PROGRAMMES</pattern>
+    <template>To know Different PhD Programmes available follow the link 
+     Link: https://www.gehu.ac.in/content/gehu/en/academics.html
+
+</template>
+    </category>  
+
+        
+
+   <category>
+
+      <pattern>OPEN ELECTIVE</pattern>
+    <template> Different Open Electives available are 
+Open electives offered by Department of Applied Sciences
+� � Combinatorial Theories MAT 301 
+� � Numerical Techniques MAT 302 
+� � Nanotechnology PHT302 
+� � Solid State Lighting PHT303 
+� � Employability skills for engineers HUT 300-1 
+� � Statistical Methods for Business and Management MAT 303 
+� � Challenges of Human Resource Development HUT300-2 
+� � Orientation in German Language HUT300-4 
+� � Non Conventional Energy Sources and Environmental Pollution CHT300-2 
+� � Psychology for Professional Growth HUT300-3 
+� � Quantum Mechanics for Engineers PHT301 
+Open electives offered by Department of Management Technology 
+� � Financial Management MBT610-1 
+� � Innovation and Entrepreneurship MBT610-3 
+� � Entrepreneurship Development MBT610-2 
+Open electives offered by Department of Computer Applications 
+� � Introduction to Object Oriented Programming MCT-300 
+</template>
+    </category>      
+
+
+
+   <category>
+
+      <pattern>OPEN ELECTIVES</pattern>
+    <template> Different Open Electives available are 
+Open electives offered by Department of Applied Sciences
+� � Combinatorial Theories MAT 301 
+� � Numerical Techniques MAT 302 
+� � Nanotechnology PHT302 
+� � Solid State Lighting PHT303 
+� � Employability skills for engineers HUT 300-1 
+� � Statistical Methods for Business and Management MAT 303 
+� � Challenges of Human Resource Development HUT300-2 
+� � Orientation in German Language HUT300-4 
+� � Non Conventional Energy Sources and Environmental Pollution CHT300-2 
+� � Psychology for Professional Growth HUT300-3 
+� � Quantum Mechanics for Engineers PHT301 
+Open electives offered by Department of Management Technology 
+� � Financial Management MBT610-1 
+� � Innovation and Entrepreneurship MBT610-3 
+� � Entrepreneurship Development MBT610-2 
+Open electives offered by Department of Computer Applications 
+� � Introduction to Object Oriented Programming MCT-300 
+
+
+
+
+</template>
+    </category>      
+
+      
+   <category>
+      <pattern>MEMBERS ACADEMIC COUNCIL</pattern>
+    <template> To know about the members of academic council follow the link
+ 
+
+Link:  https://www.gehu.ac.in/content/gehu/en/about/Campus.html
+
+
+</template>
+    </category>
+   <category>
+      <pattern>GEHU EDUCATION SOCIETY</pattern>
+    <template> To know about Board of Studies follow the link below..
+
+Link: https://www.gehu.ac.in/content/gehu/en/about/graphic-era-educational-society.html
+
+
+</template>
+    </category>
+      
+
+
+
+<category>
+<pattern>ACADEMIC CALENDAR BE</pattern>
+<template> You can get the academic calendar for BE from the link given below 
+https://www.gehu.ac.in/content/dam/gehu/pdf/ad-aid/Academic-Calender-First-Year-September-March-gehu-2020-21.pdf
+
+</template>
+</category>
+<category>
+<pattern>ACADEMIC CALENDAR MTECH</pattern>
+<template> You can get the academic calendar for MTECH from the link given below 
+https://www.gehu.ac.in/content/dam/gehu/pdf/ad-aid/Academic-Calender-First-Year-September-March-gehu-2020-21.pdf
+
+</template>
+</category>
+<category>
+<pattern>ACADEMIC CALENDAR MCA</pattern>
+<template> You can get the academic calendar for MCA from the link given below 
+https://www.gehu.ac.in/content/dam/gehu/pdf/ad-aid/Academic-Calender-First-Year-September-March-gehu-2020-21.pdf
+
+</template>
+</category>
+
+<category>
+<pattern>ACADEMIC CALENDAR ODD SEMESTER</pattern>
+<template> You can get the academic calendar FOR ODD SEMESTER from the link given below 
+https://www.gehu.ac.in/content/dam/gehu/pdf/ad-aid/Academic-Calender-odd-sem-july-december-2020.pdf
+
+
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS OF *</pattern>
+<template> You can get the SYLLABUS from the respected faculties in the college.
+</template>
+</category>
+</aiml>

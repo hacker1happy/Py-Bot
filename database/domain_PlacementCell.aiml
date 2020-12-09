@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+	<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR</pattern>
+      <template>
+		<random>
+			<li>Adobe offered a package of 43.95 LPA last year</li>
+			<li>The highest package of 43.95 LPA was offered by Adobe last year</li>
+			<li>Maximum package of last year was 43.95 LPA which was offered by Adobe</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>AVERAGE PLACEMENT RATE</pattern>
+      <template>
+		<random>
+			<li>GEHU has a average of 80% placement</li>
+			<li>Average placement of last 10 years is around 80%</li>
+			<li>GEHU has consistently achieved an average of around 80% placement for the last 10 years</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>MILESTONES 2020 BATCH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the milestones of 2020 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view milestones of 2020 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about milestones of 2020 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>MILESTONES 2019 BATCH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the milestones of 2019 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view milestones of 2019 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about milestones of 2019 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>MILESTONES 2018 BATCH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the milestones of 2018 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view milestones of 2018 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about milestones of 2018 Batch : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>INFOSYS CAMPUS CONNECT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of Infosys Campus Connect Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the details of Infosys Campus Connect Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the Infosys Campus Connect Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ACCENTURE HEAD START</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of Accenture Head Start Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the details of Accenture Head Start Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the Accenture Head Start Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>TERADATA CAMPUS CONNECT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of TERADATA Connect Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the details of TERADATA Connect Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the TERADATA Connect Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>CORE COMPANIES RECRUITED 5 YEARS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the core companies that recruited from GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the core companies that recruited from GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the core companies that recruited from GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>IT COMPANIES RECRUITED 5 YEARS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the IT companies that recruited from GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the IT companies that recruited from GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the IT  companies that recruited from GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>WIPRO JUMP START </pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of Wipro Jump Start Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the details of Wipro Jump Start Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the Wipro Jump Start Programme : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PROCEDURE TRAINING PLACEMENT RECRUITMENT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the procedure followed by T and P department : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the procedure followed by T and P department : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the procedure followed by T and P department : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>TRAINING PLACEMENT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to know more about T and P department : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to know more about T and P department : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about T and P department : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>PLACEMENT STATISTICS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the placement statistics : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view placement statistics : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to know more about the placement statistics : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>RECRUITING COMPANIES</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the recruiting companies visiting GEHU: https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Please goto this link to view the recruiting companies visiting GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+			<li>Have a look over here to view the recruiting companies visiting GEHU : https://www.gehu.ac.in/content/gehu/en/placements.html</li>
+		</random>
+	  </template>
+    </category>
+	</aiml>
+	
+	
